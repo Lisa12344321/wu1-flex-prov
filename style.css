@@ -75,6 +75,8 @@ section {
     width: 70vw;
     justify-self: center;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 1rem;
+    margin-bottom: 2rem;
 }
 
 section h2 {
@@ -96,6 +98,7 @@ section h2 {
     flex: 1;
     border-radius: 0.7rem;
     border: 2px solid black;
+    font-size: 1.2rem;
 }
 
 .card svg {
@@ -106,3 +109,13 @@ section h2 {
 }
 
 
+
+
+
+footer {
+    background-color: rgb(69, 84, 91);
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
