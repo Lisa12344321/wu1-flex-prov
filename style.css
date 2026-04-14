@@ -1,0 +1,11 @@
+nav {
+    border: 1px solid black;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-list li {
+    list-style: none;
+}
